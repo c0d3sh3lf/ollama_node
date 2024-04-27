@@ -1,0 +1,30 @@
+{
+  "name": "ollama_node",
+  "version": "1.0.0",
+  "description": "Ollama model test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0d3sh3lf/ollama_node.git"
+  },
+  "keywords": [
+    "Ollama",
+    "local_llm",
+    "llm",
+    "llama3"
+  ],
+  "author": "Sumit Shrivastava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c0d3sh3lf/ollama_node/issues"
+  },
+  "homepage": "https://github.com/c0d3sh3lf/ollama_node#readme",
+  "dependencies": {
+    "ollama-node": "^0.1.28"
+  }
+}
